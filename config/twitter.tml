@@ -1,0 +1,19 @@
+[KEY]
+consumer = "{Ž©•ª‚ÅŽæ“¾}"
+secret = "{Ž©•ª‚ÅŽæ“¾}"
+token = "111988534-{Ž©•ª‚ÅŽæ“¾}"
+tokenSecret = "{Ž©•ª‚ÅŽæ“¾}"
+
+[MEDIA]
+folder = "./dl/"
+
+
+[USER]
+ids = ["a","b","c"]
+
+[SQL]
+type = "mysql"
+tableName = ""
+id = ""
+password = ""
+

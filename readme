@@ -1,0 +1,16 @@
+configのex.sqlをエクスポートしておく
+
+下記でキーを取得して
+https://apps.twitter.com/
+
+config/twitter.tmlへ設定する
+
+コマンド
+
+1.ビルド
+go build main.go
+
+2.実行
+nohup main &
+
+
