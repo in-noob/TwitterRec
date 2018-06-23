@@ -5,7 +5,9 @@ https://apps.twitter.com/
 
 config/twitter.tmlへ設定する
 
-コマンド
+Twitterのユーザーをtwitter.tmlへ設定する
+
+ビルドコマンド
 
 1.ビルド
 go build main.go
