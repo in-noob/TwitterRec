@@ -1,3 +1,9 @@
+Cloneする場合はGOPATHの下のsrcに配置する必要がある。
+
+Clone後
+dep ensure
+を実行しパッケージをvendorに配置する。
+
 configのex.sqlをエクスポートしておく
 
 下記でキーを取得して
